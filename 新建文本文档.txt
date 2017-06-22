@@ -1,7 +1,0 @@
-<html>
-	<title></title>
-	<head></head>
-	<body>
-	<h1>这是一句话</h1>
-	</body>
-</html>
